@@ -1,213 +1,199 @@
-"","country","Percentage of Adult Smoker","GDP Per Capita in 2019"
-"7","Afghanistan",24,2065
-"28","Albania",23,13657
-"59","Algeria",21,11522
-"91","Andorra",32,NA
-"122","Angola",NA,6670
-"155","Antigua and Barbuda",NA,21850
-"162","Argentina",25,22066
-"193","Armenia",26,13654
-"252","Australia",14,49309
-"283","Austria",27,55834
-"315","Azerbaijan",24,14442
-"347","Bahamas",11,36433
-"378","Bahrain",15,45312
-"409","Bangladesh",35,4754
-"440","Barbados",8,15639
-"472","Belarus",31,19279
-"503","Belgium",24,51944
-"534","Belize",9,7252
-"565","Benin",7,3287
-"620","Bermuda",NA,81804
-"651","Bhutan",NA,11865
-"658","Bolivia",13,8724
-"690","Bosnia and Herzegovina",36,14897
-"717","Botswana",20,16348
-"749","Brazil",13,14764
-"782","Brunei",16,62098
-"813","Bulgaria",39,23266
-"844","Burkina Faso",15,2176
-"875","Burundi",12,752
-"906","Cambodia",22,4389
-"934","Cameroon",8,3743
-"965","Canada",14,49172
-"989","Cape Verde",12,7172
-"1028","Cayman Islands",NA,73634
-"1059","Central African Republic",NA,945
-"1066","Chad",8,1580
-"1098","Chile",30,24968
-"1129","China",26,15978
-"1162","Colombia",9,14585
-"1193","Comoros",21,3059
-"1224","Congo",14,3826
-"1256","Costa Rica",9,20938
-"1287","Cote d'Ivoire",10,5213
-"1318","Croatia",37,29336
-"1344","Cuba",19,NA
-"1365","Curacao",NA,24494
-"1372","Cyprus",36,41522
-"1403","Czechia",31,40981
-"1435","Democratic Republic of Congo",13,1098
-"1466","Denmark",18,57162
-"1498","Djibouti",NA,5535
-"1529","Dominica",NA,12369
-"1536","Dominican Republic",11,18413
-"1567","East Asia and Pacific",26,17649
-"1599","Ecuador",12,11371
-"1630","Egypt",24,11763
-"1661","El Salvador",8,8776
-"1716","Equatorial Guinea",NA,18503
-"1723","Eritrea",8,NA
-"1731","Estonia",30,36401
-"1757","Eswatini",9,8653
-"1788","Ethiopia",5,2221
-"1819","Europe and Central Asia",26,35345
-"1850","European Union",27,44388
-"1883","Fiji",23,13684
-"1914","Finland",22,48583
-"1945","France",34,46018
-"2003","Gabon",NA,14946
-"2010","Gambia",12,2225
-"2041","Georgia",32,14989
-"2072","Germany",22,53930
-"2103","Ghana",4,5540
-"2135","Greece",34,29698
-"2191","Grenada",NA,16868
-"2200","Guatemala",11,8653
-"2256","Guinea",NA,2567
-"2263","Guinea-Bissau",9,1939
-"2294","Guyana",13,13082
-"2325","Haiti",8,3073
-"2360","High income",23,50492
-"2415","Honduras",NA,5736
-"2446","Hong Kong",NA,59586
-"2453","Hungary",32,32554
-"2483","Iceland",13,56936
-"2509","India",28,6714
-"2540","Indonesia",37,11812
-"2571","Iran",14,12389
-"2602","Iraq",19,10936
-"2633","Ireland",21,86650
-"2665","Israel",22,40626
-"2691","Italy",23,42708
-"2722","Jamaica",10,9777
-"2753","Japan",20,42022
-"2785","Jordan",35,10071
-"2816","Kazakhstan",24,26352
-"2847","Kenya",12,4453
-"2878","Kiribati",42,2340
-"2915","Kosovo",NA,11318
-"2922","Kuwait",18,49854
-"2948","Kyrgyzstan",28,5258
-"2979","Laos",32,7887
-"3010","Latin America and Caribbean",14,16043
-"3041","Latvia",37,31012
-"3067","Lebanon",38,14564
-"3098","Lesotho",24,2584
-"3129","Liberia",8,1470
-"3165","Libya",NA,15174
-"3173","Lithuania",32,37166
-"3199","Low and middle income",24,10604
-"3230","Low income",13,2022
-"3261","Lower middle income",25,7115
-"3292","Luxembourg",22,116518
-"3347","Macao",NA,127273
-"3354","Madagascar",28,1619
-"3385","Malawi",11,1537
-"3416","Malaysia",23,28421
-"3447","Maldives",26,19510
-"3473","Mali",9,2322
-"3504","Malta",24,43951
-"3535","Marshall Islands",28,4049
-"3567","Mauritania",11,5344
-"3598","Mauritius",20,22870
-"3631","Mexico",13,19677
-"3686","Micronesia (country)",NA,3466
-"3693","Middle East and North Africa",19,16040
-"3724","Middle income",24,11572
-"3756","Moldova",29,13027
-"3783","Mongolia",30,12486
-"3814","Montenegro",32,21534
-"3839","Morocco",15,7547
-"3870","Mozambique",15,1282
-"3901","Myanmar",45,4740
-"3933","Namibia",16,9813
-"3964","Nauru",49,13527
-"3982","Nepal",32,3953
-"4013","Netherlands",23,56784
-"4046","New Zealand",14,42878
-"4101","Nicaragua",NA,5452
-"4108","Niger",8,1224
-"4139","Nigeria",4,5135
-"4172","North America",22,61251
-"4203","North Korea",18,NA
-"4234","North Macedonia",NA,16773
-"4243","Norway",17,64385
-"4274","Oman",8,31284
-"4305","Pakistan",21,4698
-"4336","Palau",18,17229
-"4377","Palestine",NA,6245
-"4384","Panama",5,31440
-"4415","Papua New Guinea",40,4293
-"4446","Paraguay",12,12616
-"4478","Peru",9,12854
-"4509","Philippines",23,8915
-"4541","Poland",25,33185
-"4572","Portugal",25,34946
-"4627","Puerto Rico",NA,34805
-"4634","Qatar",12,89966
-"4657","Romania",28,29875
-"4688","Russia",27,27211
-"4719","Rwanda",14,2228
-"4776","Saint Kitts and Nevis",NA,28603
-"4807","Saint Lucia",NA,15201
-"4840","Saint Vincent and the Grenadines",NA,12489
-"4847","Samoa",26,6632
-"4895","San Marino",NA,60847
-"4901","Sao Tome and Principe",6,4005
-"4922","Saudi Arabia",14,46962
-"4954","Senegal",7,3361
-"4985","Serbia",40,18307
-"5013","Seychelles",21,27611
-"5044","Sierra Leone",14,1705
-"5075","Singapore",17,98412
-"5116","Slovakia",32,31928
-"5145","Slovenia",22,38947
-"5171","Solomon Islands",37,2661
-"5203","Somalia",NA,1186
-"5211","South Africa",20,13710
-"5242","South Asia",28,6244
-"5274","South Korea",21,42759
-"5307","Spain",28,40802
-"5338","Sri Lanka",22,13070
-"5369","Sub-Saharan Africa",10,3890
-"5424","Sudan",NA,4174
-"5455","Suriname",NA,19037
-"5463","Sweden",25,52851
-"5494","Switzerland",26,70944
-"5551","Tajikistan",NA,3581
-"5558","Tanzania",9,2661
-"5589","Thailand",22,18453
-"5620","Timor",40,3627
-"5641","Togo",7,2122
-"5673","Tonga",31,6378
-"5729","Trinidad and Tobago",NA,25828
-"5736","Tunisia",25,11417
-"5767","Turkey",31,28197
-"5798","Turkmenistan",6,15538
-"5832","Turks and Caicos Islands",NA,29251
-"5840","Tuvalu",36,4275
-"5873","Uganda",9,2183
-"5904","Ukraine",26,12805
-"5959","United Arab Emirates",NA,68264
-"5966","United Kingdom",16,47369
-"5998","United States",23,62631
-"6031","Upper middle income",23,17393
-"6062","Uruguay",22,23033
-"6093","Uzbekistan",18,7348
-"6124","Vanuatu",18,3137
-"6157","Vietnam",25,8041
-"6191","World",23,16897
-"6223","Yemen",20,NA
-"6233","Zambia",15,3470
-"6265","Zimbabwe",12,3630
+country,Percentage of Adult Smoker,GDP Per Capita in 2019,region
+Afghanistan,24,2065,Asia
+Albania,23,13657,Europe
+Algeria,21,11522,Africa
+Andorra,32,NA,Europe
+Angola,NA,6670,Africa
+Antigua and Barbuda,NA,21850,Americas
+Argentina,25,22066,Americas
+Armenia,26,13654,Asia
+Australia,14,49309,Oceania
+Austria,27,55834,Europe
+Azerbaijan,24,14442,Asia
+Bahamas,11,36433,Americas
+Bahrain,15,45312,Asia
+Bangladesh,35,4754,Asia
+Barbados,8,15639,Americas
+Belarus,31,19279,Europe
+Belgium,24,51944,Europe
+Belize,9,7252,Americas
+Benin,7,3287,Africa
+Bermuda,NA,81804,Americas
+Bhutan,NA,11865,Asia
+Bolivia,13,8724,Americas
+Bosnia and Herzegovina,36,14897,Europe
+Botswana,20,16348,Africa
+Brazil,13,14764,Americas
+Brunei,16,62098,Asia
+Bulgaria,39,23266,Europe
+Burkina Faso,15,2176,Africa
+Burundi,12,752,Africa
+Cambodia,22,4389,Asia
+Cameroon,8,3743,Africa
+Canada,14,49172,Americas
+Cape Verde,12,7172,Africa
+Cayman Islands,NA,73634,Americas
+Central African Republic,NA,945,Africa
+Chad,8,1580,Africa
+Chile,30,24968,Americas
+China,26,15978,Asia
+Colombia,9,14585,Asia
+Comoros,21,3059,Africa
+Congo,14,3826,Africa
+Costa Rica,9,20938,Americas
+Cote d'Ivoire,10,5213,Africa
+Croatia,37,29336,Europe
+Cuba,19,NA,Americas
+Curacao,NA,24494,Americas
+Cyprus,36,41522,Asia
+Czechia,31,40981,Europe
+Democratic Republic of Congo,13,1098,Africa
+Denmark,18,57162,Europe
+Djibouti,NA,5535,Africa
+Dominica,NA,12369,Americas
+Dominican Republic,11,18413,Americas
+East Asia and Pacific,26,17649,Asia
+Ecuador,12,11371,Americas
+Egypt,24,11763,Africa
+El Salvador,8,8776,Americas
+Equatorial Guinea,NA,18503,Africa
+Eritrea,8,NA,Africa
+Estonia,30,36401,Europe
+Eswatini,9,8653,Africa
+Ethiopia,5,2221,Africa
+Europe and Central Asia,26,35345,Europe
+European Union,27,44388,Europe
+Fiji,23,13684,Oceania
+Finland,22,48583,Europe
+France,34,46018,Europe
+Gabon,NA,14946,Africa
+Gambia,12,2225,Africa
+Georgia,32,14989,Asia
+Germany,22,53930,Europe
+Ghana,4,5540,Africa
+Greece,34,29698,Europe
+Grenada,NA,16868,Americas
+Guatemala,11,8653,Americas
+Guinea,NA,2567,Africa
+Guinea-Bissau,9,1939,Africa
+Guyana,13,13082,Americas
+Haiti,8,3073,Americas
+Honduras,NA,5736,Americas
+Hong Kong,NA,59586,Asia
+Hungary,32,32554,Europe
+Iceland,13,56936,Europe
+India,28,6714,Asia
+Indonesia,37,11812,Asia
+Iran,14,12389,Asia
+Iraq,19,10936,Asia
+Ireland,21,86650,Europe
+Israel,22,40626,Asia
+Italy,23,42708,Europe
+Jamaica,10,9777,Americas
+Japan,20,42022,Asia
+Jordan,35,10071,Asia
+Kazakhstan,24,26352,Asia
+Kenya,12,4453,Africa
+Kiribati,42,2340,Oceania
+Kuwait,18,49854,Asia
+Kyrgyzstan,28,5258,Asia
+Laos,32,7887,Asia
+Latvia,37,31012,Europe
+Lebanon,38,14564,Asia
+Lesotho,24,2584,Africa
+Liberia,8,1470,Africa
+Libya,NA,15174,Africa
+Lithuania,32,37166,Europe
+Luxembourg,22,116518,Europe
+Macao,NA,127273,Asia
+Madagascar,28,1619,Africa
+Malawi,11,1537,Africa
+Malaysia,23,28421,Asia
+Maldives,26,19510,Asia
+Mali,9,2322,Africa
+Malta,24,43951,Europe
+Marshall Islands,28,4049,Oceania
+Mauritania,11,5344,Africa
+Mauritius,20,22870,Africa
+Mexico,13,19677,Americas
+Micronesia (country),NA,3466,Oceania
+Moldova,29,13027,Europe
+Mongolia,30,12486,Asia
+Montenegro,32,21534,Europe
+Morocco,15,7547,Africa
+Mozambique,15,1282,Africa
+Myanmar,45,4740,Asia
+Namibia,16,9813,Africa
+Nauru,49,13527,Oceania
+Nepal,32,3953,Asia
+Netherlands,23,56784,Europe
+New Zealand,14,42878,Oceania
+Nicaragua,NA,5452,Americas
+Niger,8,1224,Africa
+Nigeria,4,5135,Africa
+North Macedonia,NA,16773,Europe
+Norway,17,64385,Europe
+Oman,8,31284,Asia
+Pakistan,21,4698,Asia
+Palau,18,17229,Oceania
+Palestine,NA,6245,Asia
+Panama,5,31440,Americas
+Papua New Guinea,40,4293,Oceania
+Paraguay,12,12616,Americas
+Peru,9,12854,Americas
+Philippines,23,8915,Asia
+Poland,25,33185,Europe
+Portugal,25,34946,Europe
+Puerto Rico,NA,34805,Americas
+Qatar,12,89966,Asia
+Romania,28,29875,Europe
+Russia,27,27211,Europe
+Rwanda,14,2228,Africa
+Saint Kitts and Nevis,NA,28603,Americas
+Saint Lucia,NA,15201,Americas
+Saint Vincent and the Grenadines,NA,12489,Americas
+Samoa,26,6632,Oceania
+San Marino,NA,60847,Europe
+Sao Tome and Principe,6,4005,Africa
+Saudi Arabia,14,46962,Asia
+Senegal,7,3361,Africa
+Serbia,40,18307,Europe
+Seychelles,21,27611,Africa
+Sierra Leone,14,1705,Africa
+Singapore,17,98412,Asia
+Slovakia,32,31928,Europe
+Slovenia,22,38947,Europe
+Solomon Islands,37,2661,Oceania
+Somalia,NA,1186,Africa
+South Africa,20,13710,Africa
+South Korea,21,42759,Asia
+Spain,28,40802,Europe
+Sri Lanka,22,13070,Asia
+Sudan,NA,4174,Africa
+Suriname,NA,19037,Americas
+Sweden,25,52851,Europe
+Switzerland,26,70944,Europe
+Tajikistan,NA,3581,Asia
+Tanzania,9,2661,Africa
+Thailand,22,18453,Asia
+Timor,40,3627,Asia
+Togo,7,2122,Africa
+Tonga,31,6378,Oceania
+Trinidad and Tobago,NA,25828,Americas
+Tunisia,25,11417,Africa
+Turkey,31,28197,Asia
+Turkmenistan,6,15538,Asia
+Turks and Caicos Islands,NA,29251,Americas
+Tuvalu,36,4275,Oceania
+Uganda,9,2183,Africa
+Ukraine,26,12805,Europe
+United Arab Emirates,NA,68264,Asia
+United Kingdom,16,47369,Europe
+United States,23,62631,Americas
+Uruguay,22,23033,Americas
+Uzbekistan,18,7348,Asia
+Vanuatu,18,3137,Oceania
+Vietnam,25,8041,Asia
+Yemen,20,NA,Asia
+Zambia,15,3470,Africa
+Zimbabwe,12,3630,Africa
