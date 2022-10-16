@@ -1,0 +1,229 @@
+"","country","year","deathratesmoking"
+"30","Afghanistan",2019,81.75
+"60","African Region (WHO)",2019,51.5
+"90","Albania",2019,102.61
+"120","Algeria",2019,76.34
+"150","American Samoa",2019,116.82
+"180","Andorra",2019,74.12
+"210","Angola",2019,69.1
+"240","Antigua and Barbuda",2019,37.75
+"270","Argentina",2019,94.53
+"300","Armenia",2019,117.69
+"330","Australia",2019,44.66
+"360","Austria",2019,67.9
+"390","Azerbaijan",2019,145.32
+"420","Bahamas",2019,40.43
+"450","Bahrain",2019,82.73
+"480","Bangladesh",2019,86.37
+"510","Barbados",2019,31.98
+"540","Belarus",2019,129.39
+"570","Belgium",2019,82.28
+"600","Belize",2019,52.78
+"630","Benin",2019,42.39
+"660","Bermuda",2019,46.01
+"690","Bhutan",2019,66.47
+"720","Bolivia",2019,43.01
+"750","Bosnia and Herzegovina",2019,146.05
+"780","Botswana",2019,123.01
+"810","Brazil",2019,73.12
+"840","Brunei",2019,113.57
+"870","Bulgaria",2019,148.84
+"900","Burkina Faso",2019,31.39
+"930","Burundi",2019,61.49
+"960","Cambodia",2019,157.47
+"990","Cameroon",2019,46.16
+"1020","Canada",2019,69.42
+"1050","Cape Verde",2019,37.83
+"1080","Central African Republic",2019,81.71
+"1110","Chad",2019,56.1
+"1140","Chile",2019,46.54
+"1170","China",2019,129.65
+"1200","Colombia",2019,32.61
+"1230","Comoros",2019,55.15
+"1260","Congo",2019,58.82
+"1290","Cook Islands",2019,86.95
+"1320","Costa Rica",2019,41.39
+"1350","Cote d'Ivoire",2019,60.87
+"1380","Croatia",2019,108.73
+"1410","Cuba",2019,103.83
+"1440","Cyprus",2019,79.8
+"1470","Czechia",2019,96.38
+"1500","Democratic Republic of Congo",2019,43.51
+"1530","Denmark",2019,103.86
+"1560","Djibouti",2019,89.86
+"1590","Dominica",2019,45.64
+"1620","Dominican Republic",2019,91.82
+"1650","East Asia & Pacific (WB)",2019,111.74
+"1680","Eastern Mediterranean Region (WHO)",2019,102.05
+"1710","Ecuador",2019,34.14
+"1740","Egypt",2019,125.6
+"1770","El Salvador",2019,28.58
+"1800","England",2019,86.48
+"1830","Equatorial Guinea",2019,43.15
+"1860","Eritrea",2019,46.41
+"1890","Estonia",2019,83.87
+"1920","Eswatini",2019,68.27
+"1950","Ethiopia",2019,21.24
+"1980","Europe & Central Asia (WB)",2019,95.3
+"2010","European Region (WHO)",2019,95.1
+"2040","Fiji",2019,122.23
+"2070","Finland",2019,53.67
+"2100","France",2019,58.12
+"2130","G20",2019,98.19
+"2160","Gabon",2019,50.02
+"2190","Gambia",2019,64.75
+"2220","Georgia",2019,122.64
+"2250","Germany",2019,73.82
+"2280","Ghana",2019,37.11
+"2310","Greece",2019,107.07
+"2340","Greenland",2019,193.32
+"2370","Grenada",2019,49
+"2400","Guam",2019,83.49
+"2430","Guatemala",2019,36.62
+"2460","Guinea",2019,79.31
+"2490","Guinea-Bissau",2019,40.39
+"2520","Guyana",2019,65.96
+"2550","Haiti",2019,45.67
+"2580","Honduras",2019,75.94
+"2610","Hungary",2019,131.16
+"2640","Iceland",2019,59.56
+"2670","India",2019,98.78
+"2700","Indonesia",2019,126.16
+"2730","Iran",2019,57.36
+"2760","Iraq",2019,119
+"2790","Ireland",2019,80.37
+"2820","Israel",2019,51.68
+"2850","Italy",2019,59.19
+"2880","Jamaica",2019,57.73
+"2910","Japan",2019,51.04
+"2940","Jordan",2019,82.41
+"2970","Kazakhstan",2019,117.88
+"3000","Kenya",2019,50.03
+"3030","Kiribati",2019,368
+"3060","Kuwait",2019,61.66
+"3090","Kyrgyzstan",2019,114.61
+"3120","Laos",2019,150.4
+"3150","Latin America & Caribbean (WB)",2019,59.43
+"3180","Latvia",2019,96.65
+"3210","Lebanon",2019,150.71
+"3240","Lesotho",2019,174.93
+"3270","Liberia",2019,34.19
+"3300","Libya",2019,74.34
+"3330","Lithuania",2019,89.1
+"3360","Luxembourg",2019,65.59
+"3390","Madagascar",2019,49.69
+"3420","Malawi",2019,69.25
+"3450","Malaysia",2019,99.77
+"3480","Maldives",2019,77.56
+"3510","Mali",2019,46.23
+"3540","Malta",2019,58.37
+"3570","Marshall Islands",2019,151.83
+"3600","Mauritania",2019,34.38
+"3630","Mauritius",2019,61.2
+"3660","Mexico",2019,43.92
+"3690","Micronesia (country)",2019,233.65
+"3720","Middle East & North Africa (WB)",2019,87.95
+"3750","Moldova",2019,102.51
+"3780","Monaco",2019,100.23
+"3810","Mongolia",2019,166.6
+"3840","Montenegro",2019,175.86
+"3870","Morocco",2019,71.08
+"3900","Mozambique",2019,73.33
+"3930","Myanmar",2019,147.41
+"3960","Namibia",2019,91.64
+"3990","Nauru",2019,247.67
+"4020","Nepal",2019,186.78
+"4050","Netherlands",2019,88.11
+"4080","New Zealand",2019,59.34
+"4110","Nicaragua",2019,41.97
+"4140","Niger",2019,28.22
+"4170","Nigeria",2019,21.62
+"4200","Niue",2019,117.45
+"4230","North America (WB)",2019,89.96
+"4260","North Korea",2019,138.59
+"4290","North Macedonia",2019,170.17
+"4320","Northern Ireland",2019,92.24
+"4350","Northern Mariana Islands",2019,118.66
+"4380","Norway",2019,48.96
+"4410","OECD Countries",2019,73.69
+"4440","Oman",2019,57.96
+"4470","Pakistan",2019,135.14
+"4500","Palau",2019,141.99
+"4530","Palestine",2019,102.48
+"4560","Panama",2019,28.21
+"4590","Papua New Guinea",2019,161.79
+"4620","Paraguay",2019,83.17
+"4650","Peru",2019,14.02
+"4680","Philippines",2019,131.13
+"4710","Poland",2019,110.04
+"4740","Portugal",2019,51.64
+"4770","Puerto Rico",2019,37.56
+"4800","Qatar",2019,75.14
+"4830","Region of the Americas (WHO)",2019,74.82
+"4860","Romania",2019,108.59
+"4890","Russia",2019,124.71
+"4920","Rwanda",2019,101.29
+"4950","Saint Kitts and Nevis",2019,39.28
+"4980","Saint Lucia",2019,49.57
+"5010","Saint Vincent and the Grenadines",2019,45.96
+"5040","Samoa",2019,165.5
+"5070","San Marino",2019,62
+"5100","Sao Tome and Principe",2019,45.41
+"5130","Saudi Arabia",2019,64.34
+"5160","Scotland",2019,120.96
+"5190","Senegal",2019,41.68
+"5220","Serbia",2019,152.64
+"5250","Seychelles",2019,100.53
+"5280","Sierra Leone",2019,62.57
+"5310","Singapore",2019,37.17
+"5340","Slovakia",2019,88.83
+"5370","Slovenia",2019,68.85
+"5400","Solomon Islands",2019,328.78
+"5430","Somalia",2019,77.22
+"5460","South Africa",2019,75.38
+"5490","South Asia (WB)",2019,100.53
+"5520","South Korea",2019,59.39
+"5550","South Sudan",2019,55.16
+"5580","South-East Asia Region (WHO)",2019,100.81
+"5610","Spain",2019,67.56
+"5640","Sri Lanka",2019,46.14
+"5670","Sub-Saharan Africa (WB)",2019,51.69
+"5700","Sudan",2019,91.95
+"5730","Suriname",2019,75.18
+"5760","Sweden",2019,59.6
+"5790","Switzerland",2019,54.92
+"5820","Syria",2019,115.46
+"5850","Taiwan",2019,66.55
+"5880","Tajikistan",2019,102.56
+"5910","Tanzania",2019,77.48
+"5940","Thailand",2019,62.66
+"5970","Timor",2019,127.8
+"6000","Togo",2019,66.5
+"6030","Tokelau",2019,111.22
+"6060","Tonga",2019,128.98
+"6090","Trinidad and Tobago",2019,55.06
+"6120","Tunisia",2019,90.57
+"6150","Turkey",2019,99.2
+"6180","Turkmenistan",2019,98.94
+"6210","Tuvalu",2019,165.92
+"6240","Uganda",2019,48.25
+"6270","Ukraine",2019,152.17
+"6300","United Arab Emirates",2019,95.01
+"6330","United Kingdom",2019,90.23
+"6360","United States",2019,92.49
+"6390","United States Virgin Islands",2019,58.13
+"6420","Uruguay",2019,91.58
+"6450","Uzbekistan",2019,109.83
+"6480","Vanuatu",2019,147.67
+"6510","Venezuela",2019,58.88
+"6540","Vietnam",2019,109.89
+"6570","Wales",2019,97.48
+"6600","Western Pacific Region (WHO)",2019,111.74
+"6630","World",2019,95.61
+"6660","World Bank High Income",2019,74
+"6690","World Bank Low Income",2019,74.03
+"6720","World Bank Lower Middle Income",2019,101.31
+"6750","World Bank Upper Middle Income",2019,109.09
+"6780","Yemen",2019,137.3
+"6810","Zambia",2019,78.32
+"6840","Zimbabwe",2019,134.16
