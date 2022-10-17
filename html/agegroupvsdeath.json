@@ -1,0 +1,31 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 300, "height": 200,
+  "title": "Deaths caused by Smoking by age group",
+  "mark": "arc",
+  "data": {"url":"https://raw.githubusercontent.com/khaiyung34/FIT3179Asm/main/deathratesmokingage2.csv"},
+  "transform": [
+    {
+      "aggregate": [{
+       "op": "sum",
+       "field": "Number of Deaths",
+       "as": "Total Number of Deaths"
+      }],
+      "groupby": ["Age Group"]
+    }
+  ],
+  "encoding": {
+    "theta": {"field": "Total Number of Deaths", "type": "quantitative"},
+    "color": {"field": "Age Group", "type": "nominal"},
+    "tooltip": [
+      {"field": "Age Group", "type": "nominal"},
+      {"field": "Total Number of Deaths", "type": "quantitative", "title": "Total Number of Deaths"}
+    ]
+  },
+    "background": "#424242",
+  "config": {
+    "legend": {"labelColor": "white", "titleColor": "white"},
+    "title": {"color": "white"},
+    "axis": {"labelColor": "white", "titleColor": "white"}
+  }
+}

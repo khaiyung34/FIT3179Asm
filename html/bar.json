@@ -1,0 +1,28 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/khaiyung34/FIT3179Asm/main/deathcause.csv"
+  },
+  "title":"Top 15 Causes Of Deaths in 2019",
+  "width":700,
+  "height":500,
+  "background":"#424242",
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "field": "CauseOfDeath",
+      "type": "nominal",
+      "axis": {"labelAngle": 50}
+    },
+    "y": {"field": "NumberOfDeath", "type": "quantitative"},
+    "color": {"field": "CauseOfDeath","type": "nominal"},
+    "tooltip": [
+      {"field":"CauseOfDeath", "type": "nominal","title":"Cause Of Death"} , 
+      {"field":"NumberOfDeath", "type": "quantitative","title":"Number Of Death"}
+    ]
+  },
+  
+  "config": {"legend": {"labelColor": "white", "titleColor": "white"},
+  "title": {"color": "white"},
+  "axis": {"labelColor": "white", "titleColor": "white"}}
+}

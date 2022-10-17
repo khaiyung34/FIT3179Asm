@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<style>
+    body {
+      background-image: url('images.jpg');
+      background-size: contain;
+    }
+    </style>
+<head>
+    <title>The Health Consequences of Smoking</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="style/stylesheet.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+    
+    <script src="vega_lite_vis.js"></script>
+</head>
+
+
+<body>
+
+    <h1>The Health Consequences of Smoking</h1>
+
+    <div class="sectionbody">
+        <p class = "sectionhead"> 
+            Deaths caused by Smoking per 100,000 person
+        </p>
+
+        <p class = "sectionparagraphs">
+            This map shows the number of deaths per 100,000 people caused by smoking. 
+            As shown on the map, the number deaths caused by smoking is relatively 
+            <FONT COLOR="RED"> high </FONT> around the whole world especially in 
+            <FONT COLOR="RED"> Asia and Europe </FONT> where the death rate is above 
+            average. This means that we should raise more awareness about the side 
+            effects of smoking in the Asian education.
+            <div id ="map"></div>
+        </p>
+      
+    </div>
+
+    <div class="space"></div>
+
+    <div class="sectionbody"> 
+        <P class = "sectionhead">
+            How does GDP per Capita affect Percentage of Adult Smoker?
+        </P>
+
+        <div id ="scatter" class = "charts"></div>
+        <p>
+            <p class = "sectionparagraphs">
+                This chart shows the percentage of adult smoker against GDP per 
+                capita in 2019. In this scatterplot, we can see that smoking is 
+                very <FONT COLOR="RED"> prominent in Europe </FONT>. There might 
+                be a slight relationship between GDP per capita and percentage of 
+                adult smoker because Europe has almost the highest GDP per capita 
+                and their percentage of adult smoker is also the highest. The reason 
+                for this is mainly because cigarettes are heavily taxed, and therefore
+                it is <strong>expensive to buy cigarettes </strong> unless the 
+                citizens have a lot of disposable income. This is also a proof that 
+                the <FONT color= "RED"> tax disincentive works</FONT> and the Europe 
+                governments should consider raising their tax on cigarettes to fight 
+                against smoking.
+        </p>
+        
+    </div>
+
+    <div class="space"></div>
+
+    <div class ="sectionbody">
+        <p class = "sectionhead">
+            Who is affected the most by Smoking?
+        </p>
+        <div id ="agegroupvsdeath"> 
+            </div>
+            <p class = "sectionparagraphs">
+                As shown in the graph, smoking affects older generation of smokers more because smoking causes long term effects that you might not feel immediately. This means that you will never know it is affecting you until it becomes <FONT color = "RED">fatal/serious</FONT>. This is extremely dangerous because you might think it is not affecting you so much but in reality it is <font color = "red">slowly burning out your lifespan.</font>
+            </p>
+    </div>
+    
+    <div class="space"></div>
+    <div class="sectionbody">
+            <p class = "sectionhead">
+                Death rates caused by lung cancer in terms of Gender
+            </p>
+            <div id ="doubleBar" class = "charts"></div>
+            <p class = "sectionparagraphs">
+                As shown on the graph, lung cancer is generally more common amongst men because very high percentage of men smokes and be around smokers which is one of the main causes for lung cancer. An interesting observation can be made is that in Netherlands, the death rate of female caused by lung cancer has been <font color = "red">increasing in a steady rate </font> for the past two decades. A reason for this could be smoking for female has been normalised in Europe and hence causing more female to start smoking.
+            </p>
+    </div>
+
+    </div>
+
+    <div class="space"></div>
+    
+    <div class="sectionbody">
+        <p class = "sectionhead">
+            How does smoking compare to other causes of Death
+        </p>
+        <p class = "sectionparagraphs">
+            As shown in the figure below, smoking has caused the <font color="red">second highest number of deaths </font> 2019. Not only that, smoking also contributes to <font color="red">air pollution which is the third highest number of deaths </font> also <font color="red">secondhand smoke</font> is also in the top 15 causes of deaths. Smoking does not just affect the smoker, but the family and friends around them. This needs to be addressed urgently to put a stop to this problem in today's society.
+        </p>
+        <div id ="bar" class = "charts"></div>
+    </div>
+
+    </div>
+
+</body>
+</html>
